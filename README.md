@@ -10,14 +10,9 @@ Itera turns your git commits into clear, meaningful changelogs - automatically. 
 # Install
 pip install itera
 
-# Initialize in your repo
-itera init
-
 # Generate changelog
-itera generate
+itera all --limit 20
 
-# Or use the interactive UI
-itera serve
 ```
 
 ## Features
