@@ -1,0 +1,16 @@
+Here's the scoop on the changes made in the `auth.scss` file:
+
+1. **File Modification**: The file `src/app/styles/auth.scss` has been modified, increasing from 994 to 997 lines.
+
+2. **New Color Variables**: 
+   - Two new variables have been added for colors: 
+     - `$main-color` is set to `#7580de`.
+     - `$main-color-light` is set to `#7580de8e` (a lighter variant with some transparency).
+
+3. **Styling Rules**: 
+   - The `.auth` class maintains the same structural properties, such as display settings (flexbox) for arranging children elements in a column-centered layout.
+   - The background properties are already well-defined to ensure it covers the entire area, is centered, and remains fixed during scrolling.
+
+4. **Additional Elements**: Inside the `.auth` class, there’s a `terms-notice` section defined, which has spacing applied for margin and text alignment.
+
+Overall, it looks like this commit is primarily about enhancing the color palette for the authentication styles and possibly preparing for some visual improvements without altering the general layout or existing functionalities.

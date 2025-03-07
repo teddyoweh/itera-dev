@@ -1,0 +1,927 @@
+[
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "GraphRAG",
+        "importPath": "graphrag",
+        "description": "graphrag",
+        "isExtraImport": true,
+        "detail": "graphrag",
+        "documentation": {}
+    },
+    {
+        "label": "GraphRAG",
+        "importPath": "graphrag",
+        "description": "graphrag",
+        "isExtraImport": true,
+        "detail": "graphrag",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_KEY",
+        "importPath": "env",
+        "description": "env",
+        "isExtraImport": true,
+        "detail": "env",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_KEY",
+        "importPath": "env",
+        "description": "env",
+        "isExtraImport": true,
+        "detail": "env",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_KEY",
+        "importPath": "env",
+        "description": "env",
+        "isExtraImport": true,
+        "detail": "env",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_KEY",
+        "importPath": "env",
+        "description": "env",
+        "isExtraImport": true,
+        "detail": "env",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_KEY",
+        "importPath": "env",
+        "description": "env",
+        "isExtraImport": true,
+        "detail": "env",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "git",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "git",
+        "description": "git",
+        "detail": "git",
+        "documentation": {}
+    },
+    {
+        "label": "multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "faiss",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "faiss",
+        "description": "faiss",
+        "detail": "faiss",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "networkx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "networkx",
+        "description": "networkx",
+        "detail": "networkx",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "Figure",
+        "importPath": "matplotlib.figure",
+        "description": "matplotlib.figure",
+        "isExtraImport": true,
+        "detail": "matplotlib.figure",
+        "documentation": {}
+    },
+    {
+        "label": "Figure",
+        "importPath": "matplotlib.figure",
+        "description": "matplotlib.figure",
+        "isExtraImport": true,
+        "detail": "matplotlib.figure",
+        "documentation": {}
+    },
+    {
+        "label": "click",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "click",
+        "description": "click",
+        "detail": "click",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "rich.table",
+        "description": "rich.table",
+        "isExtraImport": true,
+        "detail": "rich.table",
+        "documentation": {}
+    },
+    {
+        "label": "Panel",
+        "importPath": "rich.panel",
+        "description": "rich.panel",
+        "isExtraImport": true,
+        "detail": "rich.panel",
+        "documentation": {}
+    },
+    {
+        "label": "Panel",
+        "importPath": "rich.panel",
+        "description": "rich.panel",
+        "isExtraImport": true,
+        "detail": "rich.panel",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "rich.text",
+        "description": "rich.text",
+        "isExtraImport": true,
+        "detail": "rich.text",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "rich.text",
+        "description": "rich.text",
+        "isExtraImport": true,
+        "detail": "rich.text",
+        "documentation": {}
+    },
+    {
+        "label": "Markdown",
+        "importPath": "rich.markdown",
+        "description": "rich.markdown",
+        "isExtraImport": true,
+        "detail": "rich.markdown",
+        "documentation": {}
+    },
+    {
+        "label": "Markdown",
+        "importPath": "rich.markdown",
+        "description": "rich.markdown",
+        "isExtraImport": true,
+        "detail": "rich.markdown",
+        "documentation": {}
+    },
+    {
+        "label": "IteraChangeLog",
+        "importPath": "itera",
+        "description": "itera",
+        "isExtraImport": true,
+        "detail": "itera",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "QueryRequest",
+        "kind": 6,
+        "importPath": "core.api",
+        "description": "core.api",
+        "peekOfCode": "class QueryRequest(BaseModel):\n    query: str\nclass QueryResponse(BaseModel):\n    hash: str\n    type: str\n    content: str\n    timestamp: str\n    tags: list\n    changeDetails: dict\n@app.post(\"/api/query\", response_model=QueryResponse)",
+        "detail": "core.api",
+        "documentation": {}
+    },
+    {
+        "label": "QueryResponse",
+        "kind": 6,
+        "importPath": "core.api",
+        "description": "core.api",
+        "peekOfCode": "class QueryResponse(BaseModel):\n    hash: str\n    type: str\n    content: str\n    timestamp: str\n    tags: list\n    changeDetails: dict\n@app.post(\"/api/query\", response_model=QueryResponse)\nasync def query_commits(request: QueryRequest):\n    try:",
+        "detail": "core.api",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "core.api",
+        "description": "core.api",
+        "peekOfCode": "app = FastAPI(title=\"Itera API\", description=\"API for querying commit history using GraphRAG\")\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nrag = GraphRAG(openai_api_key=OPENAI_KEY)\nrag.load_commits(\"./commit_store.json\")",
+        "detail": "core.api",
+        "documentation": {}
+    },
+    {
+        "label": "rag",
+        "kind": 5,
+        "importPath": "core.api",
+        "description": "core.api",
+        "peekOfCode": "rag = GraphRAG(openai_api_key=OPENAI_KEY)\nrag.load_commits(\"./commit_store.json\")\nclass QueryRequest(BaseModel):\n    query: str\nclass QueryResponse(BaseModel):\n    hash: str\n    type: str\n    content: str\n    timestamp: str\n    tags: list",
+        "detail": "core.api",
+        "documentation": {}
+    },
+    {
+        "label": "GitSummaryStuff",
+        "kind": 6,
+        "importPath": "core.core",
+        "description": "core.core",
+        "peekOfCode": "class GitSummaryStuff(BaseModel):\n    summary: str\n    blurb: str\n    tags: list[str]\n    changes_type: list[str]\ndef gen_summary(diff):\n    client = OpenAI(api_key=OPENAI_KEY)\n    response = client.beta.chat.completions.parse(\n        model=\"gpt-4o\",\n        messages=[",
+        "detail": "core.core",
+        "documentation": {}
+    },
+    {
+        "label": "gen_summary",
+        "kind": 2,
+        "importPath": "core.core",
+        "description": "core.core",
+        "peekOfCode": "def gen_summary(diff):\n    client = OpenAI(api_key=OPENAI_KEY)\n    response = client.beta.chat.completions.parse(\n        model=\"gpt-4o\",\n        messages=[\n            {\n                \"role\": \"system\",\n                \"content\": \"You are a helpful assistant that summarizes git commit changes. Your summaries should be:\\n- Highly detailed and logical\\n- Simple and concise\\n- Natural and conversational\\n- Easy to understand\\n- Comprehensive and thorough\\nFocus on the actual changes and their impact, avoiding any unnecessary text.\"\n            },\n            {",
+        "detail": "core.core",
+        "documentation": {}
+    },
+    {
+        "label": "process_commit",
+        "kind": 2,
+        "importPath": "core.core",
+        "description": "core.core",
+        "peekOfCode": "def process_commit(commit_data):\n    commit, repo_path = commit_data\n    repo = git.Repo(repo_path)\n    date = datetime.fromtimestamp(commit.committed_date)\n    formatted_date = date.strftime('%Y-%m-%d %H:%M:%S')\n    human_readable_date = date.strftime('%A %dth %B %Y @ %I:%M%p').lower()\n    print(f'Processing commit: {commit.hexsha[:8]}')\n    diff_str = \"\"\n    if commit.parents:\n        parent = commit.parents[0]",
+        "detail": "core.core",
+        "documentation": {}
+    },
+    {
+        "label": "list_commits",
+        "kind": 2,
+        "importPath": "core.core",
+        "description": "core.core",
+        "peekOfCode": "def list_commits():\n    repo_path = '.'\n    repo = git.Repo(repo_path)\n    commits = list(repo.iter_commits())\n    # Prepare data for multiprocessing\n    commit_data = [(commit, repo_path) for commit in commits[0:30]]\n    # Determine the number of processes to use\n    num_cores = os.cpu_count()\n    num_processes = max(1, min(num_cores - 1, len(commits)))\n    print(f\"Processing {len(commits)} commits using {num_processes} processes\")",
+        "detail": "core.core",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_KEY",
+        "kind": 5,
+        "importPath": "core.env",
+        "description": "core.env",
+        "peekOfCode": "OPENAI_KEY = \"vibes :)\"",
+        "detail": "core.env",
+        "documentation": {}
+    },
+    {
+        "label": "CommitNode",
+        "kind": 6,
+        "importPath": "core.graphrag",
+        "description": "core.graphrag",
+        "peekOfCode": "class CommitNode:\n    commit_hash: str\n    author: str\n    date: str\n    message: str\n    summary: Dict[str, Any]\n    embedding: Optional[np.ndarray] = None\nclass GraphRAG:\n    def __init__(self, openai_api_key: str, dimension: int = 3072):\n        self.openai_api_key = openai_api_key",
+        "detail": "core.graphrag",
+        "documentation": {}
+    },
+    {
+        "label": "GraphRAG",
+        "kind": 6,
+        "importPath": "core.graphrag",
+        "description": "core.graphrag",
+        "peekOfCode": "class GraphRAG:\n    def __init__(self, openai_api_key: str, dimension: int = 3072):\n        self.openai_api_key = openai_api_key\n        self.client = OpenAI(api_key=openai_api_key)\n        self.commit_store = json.load(open(\"commits.json\", \"r\"))\n        self.dimension = dimension\n        self.index = faiss.IndexFlatL2(dimension)\n        self.graph = nx.DiGraph()\n        self.commit_nodes: Dict[str, CommitNode] = {}\n        self.commit_embeddings: Dict[str, np.ndarray] = {}",
+        "detail": "core.graphrag",
+        "documentation": {}
+    },
+    {
+        "label": "GitSummaryStuff",
+        "kind": 6,
+        "importPath": "core.itera",
+        "description": "core.itera",
+        "peekOfCode": "class GitSummaryStuff(BaseModel):\n    summary: str\n    blurb: str\n    tags: list[str]\n    changes_type: list[str]\nclass IteraChangeLog:\n    def __init__(self, repo_path: str = '.', storage_dir: Optional[str] = None):\n        self.repo_path = repo_path\n        self.storage_dir = storage_dir or os.path.join(os.path.expanduser('~'), '.itera')\n        self._ensure_storage_exists()",
+        "detail": "core.itera",
+        "documentation": {}
+    },
+    {
+        "label": "IteraChangeLog",
+        "kind": 6,
+        "importPath": "core.itera",
+        "description": "core.itera",
+        "peekOfCode": "class IteraChangeLog:\n    def __init__(self, repo_path: str = '.', storage_dir: Optional[str] = None):\n        self.repo_path = repo_path\n        self.storage_dir = storage_dir or os.path.join(os.path.expanduser('~'), '.itera')\n        self._ensure_storage_exists()\n        self.openai_client = OpenAI(api_key=OPENAI_KEY)\n    def _ensure_storage_exists(self):\n        Path(self.storage_dir).mkdir(parents=True, exist_ok=True)\n    def _get_storage_path(self, repo_name: str) -> str:\n        return os.path.join(self.storage_dir, f\"{repo_name}_changelog.json\")",
+        "detail": "core.itera",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "core.itera",
+        "description": "core.itera",
+        "peekOfCode": "def main():\n    try:\n        changelog = IteraChangeLog()\n        changelog.generate_changelog()\n    except git.exc.InvalidGitRepositoryError:\n        print(\"Error: Not a valid git repository\")\n    except Exception as e:\n        print(f\"An error occurred: {str(e)}\")\nif __name__ == '__main__':\n    main()",
+        "detail": "core.itera",
+        "documentation": {}
+    },
+    {
+        "label": "format_summary",
+        "kind": 2,
+        "importPath": "core.itera_cli",
+        "description": "core.itera_cli",
+        "peekOfCode": "def format_summary(summary_dict):\n    header = Text(\"📝 Summary\\n\", style=\"bold cyan\")\n    md = Markdown(summary_dict[\"summary\"], style=\"white\")\n    summary_panel = Panel(md, padding=(1, 2), border_style=\"cyan\")\n    overview_text = Text()\n    overview_text.append(\"🔍 Quick Overview\\n\", style=\"bold cyan\")\n    overview_text.append(summary_dict[\"blurb\"], style=\"italic white\")\n    tags_text = Text()\n    tags_text.append(\"\\n🏷️  Tags: \", style=\"bold cyan\")\n    tags = [f\"[yellow]{tag}[/]\" for tag in summary_dict[\"tags\"]]",
+        "detail": "core.itera_cli",
+        "documentation": {}
+    },
+    {
+        "label": "print_commit",
+        "kind": 2,
+        "importPath": "core.itera_cli",
+        "description": "core.itera_cli",
+        "peekOfCode": "def print_commit(commit_data):\n    panel = Panel(\n        format_summary(commit_data[\"summary\"]),\n        title=f\"[bold blue]Commit {commit_data['commit_hash']}[/] by [yellow]{commit_data['author']}[/]\",\n        subtitle=f\"[italic]{commit_data['human_readable_date']}[/]\",\n        border_style=\"blue\",\n        padding=(1, 2)\n    )\n    console.print(panel)\n    console.print(\"\\n\")",
+        "detail": "core.itera_cli",
+        "documentation": {}
+    },
+    {
+        "label": "cli",
+        "kind": 2,
+        "importPath": "core.itera_cli",
+        "description": "core.itera_cli",
+        "peekOfCode": "def cli():\n    \"\"\"Itera - Generate beautiful changelogs from your git repository\"\"\"\n    pass\n@cli.command()\n@click.option('--hash', '-h', help='Specific commit hash to show changelog for')\ndef show(hash: Optional[str]):\n    \"\"\"Show changelog for a specific commit\"\"\"\n    try:\n        changelog = IteraChangeLog()\n        if hash:",
+        "detail": "core.itera_cli",
+        "documentation": {}
+    },
+    {
+        "label": "show",
+        "kind": 2,
+        "importPath": "core.itera_cli",
+        "description": "core.itera_cli",
+        "peekOfCode": "def show(hash: Optional[str]):\n    \"\"\"Show changelog for a specific commit\"\"\"\n    try:\n        changelog = IteraChangeLog()\n        if hash:\n            repo = git.Repo()\n            commit = repo.commit(hash)\n            changes = changelog._process_commit((commit, '.'))\n            print_commit(changes)\n        else:",
+        "detail": "core.itera_cli",
+        "documentation": {}
+    },
+    {
+        "label": "all",
+        "kind": 2,
+        "importPath": "core.itera_cli",
+        "description": "core.itera_cli",
+        "peekOfCode": "def all(limit: int):\n    \"\"\"Show changelog for all commits\"\"\"\n    try:\n        repo = git.Repo()\n        changelog = IteraChangeLog()\n        commits = list(repo.iter_commits())[:limit]\n        with console.status(f\"[bold green]Processing {len(commits)} commits...\") as status:\n            for i, commit in enumerate(commits, 1):\n                status.update(f\"[bold green]Processing commit {i}/{len(commits)}...\")\n                changes = changelog._process_commit((commit, '.'))",
+        "detail": "core.itera_cli",
+        "documentation": {}
+    },
+    {
+        "label": "range",
+        "kind": 2,
+        "importPath": "core.itera_cli",
+        "description": "core.itera_cli",
+        "peekOfCode": "def range(start: str, end: str):\n    \"\"\"Show changelog for a date range\"\"\"\n    try:\n        start_date = datetime.strptime(start, \"%Y-%m-%d\")\n        end_date = datetime.strptime(end, \"%Y-%m-%d\")\n        repo = git.Repo()\n        changelog = IteraChangeLog()\n        commits = list(repo.iter_commits())\n        filtered_commits = [\n            commit for commit in commits",
+        "detail": "core.itera_cli",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "core.itera_cli",
+        "description": "core.itera_cli",
+        "peekOfCode": "def search(query: str, limit: int):\n    \"\"\"Search through commits using semantic search\"\"\"\n    try:\n        rag = GraphRAG(openai_api_key=OPENAI_KEY)\n        rag.load_commits(\"commits.json\")\n        with console.status(\"[bold green]Searching commits...\"):\n            results = rag.get_formatted_commit_details(query, limit)\n        if not results:\n            console.print(\"[yellow]No relevant commits found[/]\")\n            return",
+        "detail": "core.itera_cli",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "core.itera_cli",
+        "description": "core.itera_cli",
+        "peekOfCode": "console = Console()\ndef format_summary(summary_dict):\n    header = Text(\"📝 Summary\\n\", style=\"bold cyan\")\n    md = Markdown(summary_dict[\"summary\"], style=\"white\")\n    summary_panel = Panel(md, padding=(1, 2), border_style=\"cyan\")\n    overview_text = Text()\n    overview_text.append(\"🔍 Quick Overview\\n\", style=\"bold cyan\")\n    overview_text.append(summary_dict[\"blurb\"], style=\"italic white\")\n    tags_text = Text()\n    tags_text.append(\"\\n🏷️  Tags: \", style=\"bold cyan\")",
+        "detail": "core.itera_cli",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "itera-web.node_modules.flatted.python.flatted",
+        "description": "itera-web.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "itera-web.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "itera-web.node_modules.flatted.python.flatted",
+        "description": "itera-web.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "itera-web.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "itera-web.node_modules.flatted.python.flatted",
+        "description": "itera-web.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "itera-web.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "itera-web.node_modules.flatted.python.flatted",
+        "description": "itera-web.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "itera-web.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "format_summary",
+        "kind": 2,
+        "importPath": "itera_lib.itera_lib.cli",
+        "description": "itera_lib.itera_lib.cli",
+        "peekOfCode": "def format_summary(summary_dict):\n    header = Text(\"📝 Summary\\n\", style=\"bold cyan\")\n    md = Markdown(summary_dict[\"summary\"], style=\"white\")\n    summary_panel = Panel(md, padding=(1, 2), border_style=\"cyan\")\n    overview_text = Text()\n    overview_text.append(\"🔍 Quick Overview\\n\", style=\"bold cyan\")\n    overview_text.append(summary_dict[\"blurb\"], style=\"italic white\")\n    tags_text = Text()\n    tags_text.append(\"\\n🏷️  Tags: \", style=\"bold cyan\")\n    tags = [f\"[yellow]{tag}[/]\" for tag in summary_dict[\"tags\"]]",
+        "detail": "itera_lib.itera_lib.cli",
+        "documentation": {}
+    },
+    {
+        "label": "print_commit",
+        "kind": 2,
+        "importPath": "itera_lib.itera_lib.cli",
+        "description": "itera_lib.itera_lib.cli",
+        "peekOfCode": "def print_commit(commit_data):\n    panel = Panel(\n        format_summary(commit_data[\"summary\"]),\n        title=f\"[bold blue]Commit {commit_data['commit_hash']}[/] by [yellow]{commit_data['author']}[/]\",\n        subtitle=f\"[italic]{commit_data['human_readable_date']}[/]\",\n        border_style=\"blue\",\n        padding=(1, 2)\n    )\n    console.print(panel)\n    console.print(\"\\n\")",
+        "detail": "itera_lib.itera_lib.cli",
+        "documentation": {}
+    },
+    {
+        "label": "cli",
+        "kind": 2,
+        "importPath": "itera_lib.itera_lib.cli",
+        "description": "itera_lib.itera_lib.cli",
+        "peekOfCode": "def cli():\n    \"\"\"Itera - Generate beautiful changelogs from your git repository\"\"\"\n    pass\n@cli.command()\n@click.option('--hash', '-h', help='Specific commit hash to show changelog for')\ndef show(hash: Optional[str]):\n    \"\"\"Show changelog for a specific commit\"\"\"\n    try:\n        changelog = Itera()\n        if hash:",
+        "detail": "itera_lib.itera_lib.cli",
+        "documentation": {}
+    },
+    {
+        "label": "show",
+        "kind": 2,
+        "importPath": "itera_lib.itera_lib.cli",
+        "description": "itera_lib.itera_lib.cli",
+        "peekOfCode": "def show(hash: Optional[str]):\n    \"\"\"Show changelog for a specific commit\"\"\"\n    try:\n        changelog = Itera()\n        if hash:\n            repo = git.Repo()\n            commit = repo.commit(hash)\n            changes = changelog._process_commit((commit, '.'))\n            print_commit(changes)\n        else:",
+        "detail": "itera_lib.itera_lib.cli",
+        "documentation": {}
+    },
+    {
+        "label": "all",
+        "kind": 2,
+        "importPath": "itera_lib.itera_lib.cli",
+        "description": "itera_lib.itera_lib.cli",
+        "peekOfCode": "def all(limit: int):\n    \"\"\"Show changelog for all commits\"\"\"\n    try:\n        repo = git.Repo()\n        changelog = Itera()\n        commits = list(repo.iter_commits())[:limit]\n        with console.status(f\"[bold green]Processing {len(commits)} commits...\") as status:\n            for i, commit in enumerate(commits, 1):\n                status.update(f\"[bold green]Processing commit {i}/{len(commits)}...\")\n                changes = changelog._process_commit((commit, '.'))",
+        "detail": "itera_lib.itera_lib.cli",
+        "documentation": {}
+    },
+    {
+        "label": "range",
+        "kind": 2,
+        "importPath": "itera_lib.itera_lib.cli",
+        "description": "itera_lib.itera_lib.cli",
+        "peekOfCode": "def range(start: str, end: str):\n    \"\"\"Show changelog for a date range\"\"\"\n    try:\n        start_date = datetime.strptime(start, \"%Y-%m-%d\")\n        end_date = datetime.strptime(end, \"%Y-%m-%d\")\n        repo = git.Repo()\n        changelog = Itera()\n        commits = list(repo.iter_commits())\n        filtered_commits = [\n            commit for commit in commits",
+        "detail": "itera_lib.itera_lib.cli",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "itera_lib.itera_lib.cli",
+        "description": "itera_lib.itera_lib.cli",
+        "peekOfCode": "def search(query: str, limit: int):\n    \"\"\"Search through commits using semantic search\"\"\"\n    try:\n        openai_api_key = os.getenv('OPENAI_KEY')\n        if not openai_api_key:\n            console.print(\"[red]Error: OPENAI_KEY environment variable not set[/]\")\n            return\n        # Generate commits.json if it doesn't exist\n        if not os.path.exists(\"commits.json\"):\n            status = console.status(\"[bold green]Generating commit history...\")",
+        "detail": "itera_lib.itera_lib.cli",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "itera_lib.itera_lib.cli",
+        "description": "itera_lib.itera_lib.cli",
+        "peekOfCode": "console = Console()\ndef format_summary(summary_dict):\n    header = Text(\"📝 Summary\\n\", style=\"bold cyan\")\n    md = Markdown(summary_dict[\"summary\"], style=\"white\")\n    summary_panel = Panel(md, padding=(1, 2), border_style=\"cyan\")\n    overview_text = Text()\n    overview_text.append(\"🔍 Quick Overview\\n\", style=\"bold cyan\")\n    overview_text.append(summary_dict[\"blurb\"], style=\"italic white\")\n    tags_text = Text()\n    tags_text.append(\"\\n🏷️  Tags: \", style=\"bold cyan\")",
+        "detail": "itera_lib.itera_lib.cli",
+        "documentation": {}
+    },
+    {
+        "label": "CommitNode",
+        "kind": 6,
+        "importPath": "itera_lib.itera_lib.graphrag",
+        "description": "itera_lib.itera_lib.graphrag",
+        "peekOfCode": "class CommitNode:\n    commit_hash: str\n    author: str\n    date: str\n    message: str\n    summary: Dict[str, Any]\n    embedding: Optional[np.ndarray] = None\nclass GraphRAG:\n    def __init__(self, openai_api_key: str, dimension: int = 3072):\n        self.openai_api_key = openai_api_key",
+        "detail": "itera_lib.itera_lib.graphrag",
+        "documentation": {}
+    },
+    {
+        "label": "GraphRAG",
+        "kind": 6,
+        "importPath": "itera_lib.itera_lib.graphrag",
+        "description": "itera_lib.itera_lib.graphrag",
+        "peekOfCode": "class GraphRAG:\n    def __init__(self, openai_api_key: str, dimension: int = 3072):\n        self.openai_api_key = openai_api_key\n        self.dimension = dimension\n        self.index = faiss.IndexFlatL2(dimension)\n        self.graph = nx.DiGraph()\n        self.commit_nodes: Dict[str, CommitNode] = {}\n        self.commit_embeddings: Dict[str, np.ndarray] = {}\n    def _get_embedding(self, text: str) -> np.ndarray:\n        client = OpenAI(api_key=self.openai_api_key)  # Create new client for each request",
+        "detail": "itera_lib.itera_lib.graphrag",
+        "documentation": {}
+    }
+]
